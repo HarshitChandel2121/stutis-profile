@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/stutis-profile/static/css/main.53f3d531.css",
+    "main.js": "/stutis-profile/static/js/main.acaeef97.js",
+    "static/js/787.be73f74f.chunk.js": "/stutis-profile/static/js/787.be73f74f.chunk.js",
+    "static/media/stuti.jpg": "/stutis-profile/static/media/stuti.0479153b86f8453a58be.jpg",
+    "index.html": "/stutis-profile/index.html",
+    "main.53f3d531.css.map": "/stutis-profile/static/css/main.53f3d531.css.map",
+    "main.acaeef97.js.map": "/stutis-profile/static/js/main.acaeef97.js.map",
+    "787.be73f74f.chunk.js.map": "/stutis-profile/static/js/787.be73f74f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53f3d531.css",
+    "static/js/main.acaeef97.js"
+  ]
+}
